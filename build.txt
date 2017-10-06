@@ -1,0 +1,4 @@
+author = Alpha and Girahf
+
+version = 0.1.0.2
+displayName = Void Addons
