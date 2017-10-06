@@ -1,4 +1,4 @@
 author = Alpha and Girahf
-version = 0.1.0.2
+version = 0.1.0.4
 displayName = Void Addons
 homepage = https://forums.terraria.org/index.php?threads/voidaddons.62631/
