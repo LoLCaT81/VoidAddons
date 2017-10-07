@@ -13,11 +13,11 @@ namespace VoidAddons.Mounts
 			mountData.buff = mod.BuffType("CarMount");
 			mountData.heightBoost = 20;
 			mountData.fallDamage = 0.5f;
-			mountData.runSpeed = 11f;
-			mountData.dashSpeed = 8f;
+			mountData.runSpeed = 20f;
+			mountData.dashSpeed = 10f;
 			mountData.flightTimeMax = 0;
 			mountData.fatigueMax = 0;
-			mountData.jumpHeight = 5;
+			mountData.jumpHeight = 10;
 			mountData.acceleration = 0.19f;
 			mountData.jumpSpeed = 4f;
 			mountData.blockExtraJumps = false;
