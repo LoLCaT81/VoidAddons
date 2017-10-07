@@ -13,3 +13,5 @@ v.1.0.5 = some item fixes and (i think) new stuff (which i don't remember)
 
 v.1.0.6 = Updated Sprites
 
+v.1.0.7 = Added a cool new weapon
+
