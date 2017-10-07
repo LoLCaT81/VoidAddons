@@ -7,3 +7,9 @@ Updates :) (latest at bottom)
 
 v.1.0.3 = added github page + (hopefully) icon.
 
+v.1.0.4 = added a homepage
+
+v.1.0.5 = some item fixes and (i think) new stuff (which i don't remember)
+
+v.1.0.6 = Updated Sprites
+
