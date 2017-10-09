@@ -15,3 +15,5 @@ v.1.0.6 = Updated Sprites
 
 v.1.0.7 = Added a cool new weapon
 
+v.1.0.8 = new weapons + a new broken boss
+
